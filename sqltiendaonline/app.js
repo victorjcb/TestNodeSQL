@@ -2,7 +2,7 @@
 // npm init --y
 // Instalar modulos necesarios
 // npm install express mysql ejs body-parser --save
-
+// Importaciones  
 // Importaciones  
 var path = require("path");
 const express = require("express");
